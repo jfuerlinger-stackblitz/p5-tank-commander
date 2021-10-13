@@ -97,6 +97,7 @@ function draw() {
   p.stroke('brown');
   p.fill('brown');
 
+  // draw background
   p.circle(50, 600, 300);
   p.circle(320, 600, 450);
   p.circle(450, 600, 450);
